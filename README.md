@@ -1,4 +1,4 @@
-# Getting Started with Create React App
+# Uncloseted Healthcare App
 
 Team Members:
 - Pravir Chugh
