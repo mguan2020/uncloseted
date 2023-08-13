@@ -5,6 +5,7 @@ Team Members:
 - Brandon Tran
 - Matthew Guan
 - Michelle Kim
+
 Link to project video and demo: https://devpost.com/software/uncloseted
 
 ![uncloseted](https://github.com/mguan2020/uncloseted/assets/99301559/25ffad5d-1a05-4e0b-9f06-41c1994e9126)
