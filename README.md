@@ -6,6 +6,8 @@ Team Members:
 - Michelle Kim
 - Matthew Guan
 
+Link to project video and demo: https://devpost.com/software/uncloseted
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
